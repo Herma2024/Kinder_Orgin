@@ -1,0 +1,4 @@
+.venv/
+vendor/
+node_module
+.env
